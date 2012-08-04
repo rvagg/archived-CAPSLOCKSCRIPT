@@ -1,0 +1,25 @@
+{
+    "name": "capslockscript"
+  , "version": "0.0.0"
+  , "description": "JAVASCRIPT HOW IT SHOULD HAVE ALWAYS BEEN"
+  , "main": "INDEX.JS"
+  , "scripts": {}
+  , "repository": {
+        "type": "git"
+      , "url": "git://github.com/rvagg/CAPSLOCKSCRIPT.git"
+    }
+  , "keywords": [
+         "CAPS"
+      ,  "CAPSLOCK"
+      ,  "CAPSLOCKSCRIPT"
+    ]
+  , "bin": {
+        "CAPSLOCKSCRIPT"       : "./BIN/CAPSLOCKSCRIPT"
+    }
+  , "author": {
+        "name": "ROD VAGG"
+      , "email": "ROD@VAGG.ORG"
+      , "url": "HTTPS://GITHUB.COM/RVAGG"
+    }
+  , "license": "MIT"
+}

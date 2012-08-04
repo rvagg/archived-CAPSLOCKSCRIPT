@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+if (!require('fs').existsSync(process.argv[2]))
+  return console.log('FILE DOES NOT EXIST!', process.argv[2])
+require('../INDEX.JS').INIT(process.argv[2])
