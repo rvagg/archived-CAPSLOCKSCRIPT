@@ -35,8 +35,11 @@ WITH CONTINUED USE OF CAPSLOCKSCRIPT).
 YOU MUST INCLUDE THIS SIMPLE BOOTSTRAP FILE TO GET STARTED
 
 ```js
-require('capslockscript').INIT(require('path').join(__dirname, './INDEX.CS'), [ 'exports' ], [ module.exports ])
+require('capslockscript')
+module.exports = require('./INDEX.CS')
 ```
+
+(SEE [CAPS-LOCK](https://github.com/substack/CAPS-LOCK/blob/master/INDEX.JS) FOR A REAL EXAMPLE)
 
 #### INDEX.CS
 
