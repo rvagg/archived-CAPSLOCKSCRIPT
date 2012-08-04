@@ -1,5 +1,5 @@
 # CAPSLOCKSCRIPT
-## JAVASCRIPT, APLIFIED
+## JAVASCRIPT, T H E &nbsp; L O U D &nbsp; P A R T S
 
 BUILDING ON THE [PIONEERING WORK](https://github.com/substack/CAPS-LOCK) OF [@SUBSTACK](https://github.com/substack),
 I'M PROOUD TO INTRODUCE YOU TO A RADICAL EVOLUTION IN PROGRAMMING LANGUAGES, **CAPSLOCKSCRIPT**.
@@ -35,7 +35,7 @@ WITH CONTINUED USE OF CAPSLOCKSCRIPT).
 YOU MUST INCLUDE THIS SIMPLE BOOTSTRAP FILE TO GET STARTED
 
 ```js
-require('capslockscript').INIT('./INDEX.CS', [ 'exports' ], [ module.exports ])
+require('capslockscript').INIT(require('path').join(__dirname, './INDEX.CS'), [ 'exports' ], [ module.exports ])
 ```
 
 #### INDEX.CS
