@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/rvagg/CAPSLOCKSCRIPT.png)](http://travis-ci.org/rvagg/CAPSLOCKSCRIPT)
 # CAPSLOCKSCRIPT
 ## JAVASCRIPT, T H E &nbsp; L O U D &nbsp; P A R T S
 
